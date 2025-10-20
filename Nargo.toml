@@ -1,0 +1,3 @@
+[workspace]
+members = ["circuit_alice", "circuit_bob", "circuit_ecdh_test"]
+# default-member = "circuit_alice"

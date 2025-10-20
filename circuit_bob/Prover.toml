@@ -1,0 +1,5 @@
+alice_pub_key_x = "0x1afecbc8946fe4eb7fd8424ecc705bacc7de18e61d99024f6e15e53c45a43b66"
+alice_pub_key_y = "0x556002a1020aa416de5823ef4c19759cf6583b82840f90a2590864a65348e32"
+bob_priv_key = "0x12345"
+expected_commitment = "0x145e9dd48f8fd7b4c3a6c12f09f0d55ef346d733d976dce2a11b064b5aebfbca"
+hash_lock_nonce = "0x67890"

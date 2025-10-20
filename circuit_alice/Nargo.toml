@@ -1,0 +1,8 @@
+[package]
+name = "circuit_alice"
+type = "bin"
+authors = [""]
+
+[dependencies]
+poseidon = { git = "https://github.com/noir-lang/poseidon", tag = "v0.1.1" }
+ecdh = { git = "https://github.com/yashsharma22003/Noir-Circuits-Tests", directory = "packages/ecdh", tag = "v1" }
